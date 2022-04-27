@@ -1,0 +1,4 @@
+include fnw/CACHE.json
+include fnw/numeric.json
+include fnw/inst1.png
+include fnw/inst2.png
